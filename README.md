@@ -31,3 +31,13 @@
 ### Atención a los pedidos
 
 ![image](https://user-images.githubusercontent.com/58563304/223875941-2fdf713c-9da2-4d63-bc74-cf5dac63aad7.png)
+
+
+
+**Desarrollado por:**
+
+_Brandon Reynaldo Sandoval Franco_
+
+_Darinel Teodoro Librado_
+
+_Luis Enrique Sandoval Peña_
